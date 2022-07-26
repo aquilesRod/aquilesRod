@@ -14,7 +14,7 @@
 
 :books: Eu sempre prefiro aprender de tudo um pouco.
 
-:outbox_tray: Objetivos em 2022: Adquirir mais conhecimento e conseguir um emprego para por tudo em prática.
+:outbox_tray: Objetivos em 2022: Extender os conhecimentos - bem como as ferramentas - em automação. Além disso, iniciar os estudos para certificações em Testes de Software, como por exemplo: CTFL.
 
  
 
