@@ -8,7 +8,7 @@
 
  
 
-:computer: Sou um desenvolvedor em progresso!
+:computer: Sou um desenvolvedor de Testes em progresso!
 
 :house_with_garden: Sou brasileiro.
 
