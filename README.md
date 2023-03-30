@@ -8,13 +8,13 @@
 
  
 
-:computer: Sou um desenvolvedor de Testes em progresso!
+:computer: Sou um analista/engenheiro de QA em progresso!
 
 :house_with_garden: Sou brasileiro.
 
 :books: Eu sempre prefiro aprender de tudo um pouco.
 
-:outbox_tray: Objetivos em 2022: Extender os conhecimentos - bem como as ferramentas - em automação. Além disso, iniciar os estudos para certificações em Testes de Software, como por exemplo: CTFL.
+:outbox_tray: Objetivos em 2023: Extender os conhecimentos em automação com ênfase em otimização de código. Além disso, continuar com os estudos dedicados às certificações em Testes de Software, como por exemplo: CTFL e CT-TAE.
 
  
 
