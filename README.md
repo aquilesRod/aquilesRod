@@ -16,7 +16,9 @@
 
 :outbox_tray: Objetivos em 2023: Extender os conhecimentos em automação com ênfase em otimização de código. Além disso, continuar com os estudos dedicados às certificações em Testes de Software, como por exemplo: CTFL e CT-TAE.
 
- 
+## Hard Skills
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CristoferSilva&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## Sobre mim
 
