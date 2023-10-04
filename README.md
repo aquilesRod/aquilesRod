@@ -8,7 +8,7 @@
 
  
 
-:computer: Sou um analista/engenheiro de QA em progresso!
+:computer: Sou um engenheiro de QA/Desenvolvedor fullstack em progresso!
 
 :house_with_garden: Sou brasileiro.
 
