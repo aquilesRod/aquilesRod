@@ -14,7 +14,7 @@
 
 :books: Eu sempre prefiro aprender de tudo um pouco.
 
-:outbox_tray: Objetivos em 2023: Extender os conhecimentos em automação com ênfase em otimização de código. Além disso, continuar com os estudos dedicados às certificações em Testes de Software, como por exemplo: CTFL e CT-TAE.
+:outbox_tray: Objetivos em 2024: Extender os conhecimentos em automação com ênfase em otimização de código e boas práticas de codificação. Além disso, continuar com os estudos dedicados às certificações em Testes de Software, como por exemplo: CTFL e CT-TAE.
 
 ## Hard Skills
 
